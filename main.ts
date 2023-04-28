@@ -1,0 +1,11 @@
+basic.forever(function () {
+    basic.showString("KAIXO")
+    basic.pause(200)
+    basic.showString("M")
+    basic.pause(200)
+    basic.showString("M")
+    basic.pause(200)
+    basic.showString("M")
+    basic.pause(200)
+    basic.showString("NAIZ")
+})
